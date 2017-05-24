@@ -12,7 +12,7 @@ Erik Wilbas
 ## Project Description:
 This lesson examines version/source control and why application devlopers find it essential to use in the development of applications
 
-## Lessons Learned in the Assignment:
+## View Project:
 https://ewilbas.github.io/lesson3_VersionControl/
 
 ## Lessons Learned in the Assignment:
